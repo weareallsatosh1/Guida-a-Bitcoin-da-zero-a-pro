@@ -33,8 +33,6 @@ Understanding Bitcoin (serie Youtube in italiano): https://www.youtube.com/watch
 
 Consiglio il film da vedere: Snowden uscito nel 2016, non centra con Bitcoin direttamente ma fa capire come agiva e agisce il governo dietro le quinte...*
 
-Cloud di 3.5 Terabyte contenente quasi tutti i corsi disponibili (a pagamento) online: https://mega.nz/folder/sjZliYTJ#UH8_LzJ2ctS73WSOo63DwA
-
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 Libri:
