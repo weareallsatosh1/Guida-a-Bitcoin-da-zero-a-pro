@@ -5,7 +5,7 @@ In questa Guida vorrei pubblicare contenuti e articoli disponibili sul web e rac
 
 Iniziamo subito senza perdere tempo! 
 
-Divido la guida in 3 gruppi + un elenco di servizi disponibili per scambiare BTC senza KYC, aggiornando man mano che passa il tempo con nuovo materiale, i 3 gruppi sono, Articoli, Video, Libri.
+Divido la guida in 3 gruppi, aggiornando man mano che passa il tempo con nuovo materiale, i 3 gruppi sono, Articoli, Video, Libri.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
