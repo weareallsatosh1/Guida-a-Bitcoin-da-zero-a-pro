@@ -11,6 +11,8 @@ Divido la guida in 3 gruppi + un elenco di servizi disponibili per scambiare BTC
 
 Articoli: 
 
+Primissimo articolo assolutamente da leggere è il WhitePaper ufficiale scritto nel 2008 e pubblicato nel 2009 da Satoshi Nakamoto (qui tradotto in italiano): https://bitcoin.org/files/bitcoin-paper/bitcoin_it.pdf
+
 Spiegazione poco tecnica di cos'è Bitcoin: https://armantheparman.com/bitcoin-italian/
 
 Debunking delle più comuni critiche su Bitcoin: https://www.albertodeluigi.com/2021/04/30/debunking-critiche-bitcoin/
