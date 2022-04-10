@@ -45,6 +45,12 @@ Mastering Bitcoin
 
 Mastering Lightning Network
 
+Dal sesterzio al Bitcoin. Vecchie e nuove dimensioni del denaro 
+
+Bitcoin In Action: SegWit, Bitcoin Script & Smart Contracts 
+
+Bitcoin: Dalla teoria alla pratica
+
 Come diventare invisibili - Francesco Narmenni
 
 The price of Tomorrow - Jeff Booth
