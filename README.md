@@ -17,6 +17,8 @@ Spiegazione poco tecnica di cos'è Bitcoin: https://armantheparman.com/bitcoin-i
 
 Debunking delle più comuni critiche su Bitcoin: https://www.albertodeluigi.com/2021/04/30/debunking-critiche-bitcoin/
 
+Il Piccolo Principe e Bitcoin: https://medium.com/@luomocontento/il-piccolo-principe-e-il-bitcoin-8185ba4cdc01
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 Video: 
