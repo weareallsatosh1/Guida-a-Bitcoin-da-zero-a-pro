@@ -1,4 +1,4 @@
-# Guida-a-Bitcoin-da-zero-a-pro
+# Guida a Bitcoin da zero a pro
 
 
 In questa Guida vorrei pubblicare contenuti e articoli disponibili sul web e raccoglierli tutti insieme.
